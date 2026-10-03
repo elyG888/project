@@ -1,0 +1,7 @@
+{
+  "name": "Fruit Desert — Control de Costos, Mermas e Inventario",
+  "description": "Plataforma agroindustrial para Fruit Desert: control de mermas de deshidratación, escandallo de kits, kardex y ventas en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
